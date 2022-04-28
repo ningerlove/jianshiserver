@@ -1,44 +1,23 @@
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
+# jianshi 简诗
+原始的简诗（https://github.com/wingjay/jianshi) 项目很久未更新,许多库已经过时，无法直接使用，尤其对初学者不够友好，本项目本着学习开源的目的，重构原始项目
+# jianshi 简诗
+本地址包含服务端的全部代码，App端的代码（https://github.com/ningerlove/jianshi）
+# 作品
 
-These are common Git commands used in various situations:
+<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/jiemian/welcome.png" width="200"/><img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/jiemian/signup.png" width="200"/><img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/jiemian/setting.png" width="200"/><img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/jiemian/main.png" width="200"/>
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+欢迎界面|登录界面|设置界面|主界面
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+# Development History
+[2022/4/26]本地启动成功
+# 作者
+刘宁
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+古城西安不务正业的计算机视觉算法工程师
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+想开客栈，奶茶店，去全世界旅游，做好玩的App
+# 欢迎榜一大哥
+<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/mipmap-mdpi/pay_weixing_liuning.jpg" width="300px">
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+# 联系作者
+<img src="https://github.com/ningerlove/jianshi/blob/main/app/src/main/res/others/liuning_weixing.jpg" width="300px">
