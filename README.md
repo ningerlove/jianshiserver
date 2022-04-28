@@ -4,12 +4,22 @@
 本地址包含服务端的全部代码，App端的代码（https://github.com/ningerlove/jianshi）
 # 操作手册
 1 拉取镜像
+
 '''
 docker pull liuningliuning/jianshi_server:latest
 '''
+
 2 clone代码
+
+'''
+git clone git@github.com:ningerlove/jianshiserver.git
+'''
+
 3 启动服务
 
+'''
+python runserver.py
+'''
 
 # Development History
 [2022/4/28]本地启动成功
